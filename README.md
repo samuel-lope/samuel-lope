@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://s-p.app/jurassi-cc_logo-git.png" alt="Logo da Minha Empresa" height="200">
+</p></br>
+
+*****
+
 ### 🌱 I’m currently learning ...
 
 <!--
