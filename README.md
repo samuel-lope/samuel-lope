@@ -4,7 +4,7 @@
 
 *****
 
-### 🌱 I’m currently learning ...
+<h3 align="center">🌱 I’m currently learning ...</h3>
 
 <!--
 **samuel-lope/samuel-lope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
