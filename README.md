@@ -18,7 +18,7 @@
 
 <div align="center">
   
-![Static Badge](https://img.shields.io/badge/Samuel_Lopes-2024-00a9bb?style=flat&labelColor=eeeeee)
+![Static Badge](https://img.shields.io/badge/Samuel_Lopes-2024-00a9bb?style=for-the-badge&logo=creativecommons&labelColor=eeeeee)
 
 </div>
 
