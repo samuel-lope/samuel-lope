@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://383bb7d6682d281a381f00d776f6dfc5.io.log.br/jurassi-cc_logo-git-200px.png" alt="Personal Logo" height="200"></p><br/>
+  <img src="https://383bb7d6682d281a381f00d776f6dfc5.io.log.br/jurassi-cc_logo-git-300px.png" alt="Personal Logo" height="250px"><br/>
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -11,11 +11,12 @@
 
 </div>
 
-<h3 align="center">🌱 I’m currently learning ...</h3>
+<h4 align="center">🌱 I’m currently learning ...</h4>
 
 <div align="center">
   
-![Static Badge](https://img.shields.io/badge/Samuel_Lopes-2024-c0c0c0?style=for-the-badge&labelColor=00aaff)
+<!-- ![Static Badge](https://img.shields.io/badge/Samuel_Lopes-2024-c0c0c0?style=for-the-badge&labelColor=00aaff) -->
+![Static Badge](https://img.shields.io/badge/Samuel_Lopes-%C2%A9_2024-2299dd?style=for-the-badge)
 
 </div>
 
