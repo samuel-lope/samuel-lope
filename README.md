@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://383bb7d6682d281a381f00d776f6dfc5.io.log.br/jurassi-cc-logo-svg-1.svg?sanitize=true" alt="Personal Logo" height="60"/>
+  <img src="https://383bb7d6682d281a381f00d776f6dfc5.io.log.br/jurassi-cc_logo_flat-v2.svg?sanitize=true" alt="Personal Logo" height="60"/>
     
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=19&duration=7000&pause=200&color=26F76A&center=true&random=false&width=435&lines=********)](https://git.io/typing-svg) -->
 
