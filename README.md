@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://383bb7d6682d281a381f00d776f6dfc5.io.log.br/jurassi-cc_logo-git-300px-v2.png" alt="Personal Logo" height="200px"><br/><br/>
+  <!-- <img src="https://383bb7d6682d281a381f00d776f6dfc5.io.log.br/jurassi-cc_logo_flat.png" alt="Personal Logo" height="54px"/><br/><br/> -->
+  <img src="https://383bb7d6682d281a381f00d776f6dfc5.io.log.br/jurassi-cc_logo_flat.png" alt="Personal Logo" height="54px"/><br/>
 
+
+  
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
