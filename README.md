@@ -2,8 +2,7 @@
   <!-- <img src="https://383bb7d6682d281a381f00d776f6dfc5.io.log.br/jurassi-cc_logo_flat.png" alt="Personal Logo" height="54px"/><br/><br/> -->
   <img src="https://383bb7d6682d281a381f00d776f6dfc5.io.log.br/jurassi-cc_logo_flat.png" alt="Personal Logo" height="54px"/><br/>
   
-  ***
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=19&duration=7000&pause=200&color=26F76A&center=true&random=false&width=435&lines=********)](https://git.io/typing-svg)
 
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
