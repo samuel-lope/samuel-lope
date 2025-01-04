@@ -24,7 +24,7 @@
 <div align="center">
   
 <!-- ![Static Badge](https://img.shields.io/badge/Samuel_Lopes-2024-c0c0c0?style=for-the-badge&labelColor=00aaff) -->
-![Copyright](https://img.shields.io/badge/Samuel_Lopes-%C2%A9_2024-2299dd?style=for-the-badge)
+![Copyright](https://img.shields.io/badge/Samuel_Lopes-%C2%A9_2025-2299dd?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-0.0.1-39D353?style=for-the-badge&logo=readme&logoColor=39D353)
 
 </div>
