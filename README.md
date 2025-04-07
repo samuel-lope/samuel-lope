@@ -1,16 +1,5 @@
 <div align="center">
-  <img src="https://383bb7d6682d281a381f00d776f6dfc5.io.log.br/jurassi-cc_logo_flat-v2.svg?sanitize=true" alt="Personal Logo" height="60"/>
-    
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=19&duration=7000&pause=200&color=26F76A&center=true&random=false&width=435&lines=********)](https://git.io/typing-svg) -->
-
-  
- <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) -->
+ ...
 
 </div>
 
